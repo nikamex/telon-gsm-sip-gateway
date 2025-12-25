@@ -6,5 +6,6 @@
 #yarn start --reset-cache
 #rm -rf /tmp/metro-*
 
+
 #yarn add https://github.com/telefon-one/react-native-tele https://github.com/telefon-one/react-native-sip2
 yarn android
